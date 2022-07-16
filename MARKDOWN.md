@@ -1,8 +1,8 @@
 
-# sdg
+# read me
 
 ## Description
-art
+generates a readme
 
 
 ## Table of Contents
@@ -15,17 +15,17 @@ art
 - [License](#license)
 
 ## Installation
-art
+clone repo
 
 
 ## Usage
-art
+node index.js
 
 
 
 
 ## Credits
-art
+no
 
 
 ## License
@@ -37,16 +37,16 @@ MIT License
 
 
 ## Features
-arsgt
+generates readme
 
 
 ## How to Contribute
-art
+cloning and pushing back up to original owner
 
 
 ## Tests 
-art    
+none    
 
 ## Questions
-art
+Liliana
         
